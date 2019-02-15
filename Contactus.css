@@ -1,0 +1,165 @@
+﻿
+#topNav {
+    padding-bottom:43px;
+    background-color:#ffffff;
+    border-color:#ffffff;
+}
+.navbar-right {
+    padding-top:35px;
+    padding-right:20px;
+}
+#name {
+    margin-bottom: 20px;
+    height: 50px;
+    width:100%;
+    
+}
+#email {
+    margin-bottom: 20px;
+    height: 50px;
+    width:100%;
+    
+}
+#number {
+    margin-bottom: 20px;
+    height: 50px;
+    width:100%;
+    
+}
+.h {
+    text-align:center;
+}
+.z {
+     border-color:#c02d14;
+     width:3%;
+}
+.banner img {
+    width:100%;
+}
+#msg {
+    margin-bottom: 20px;
+    height:190px;
+    width: 100%;
+}
+#btn {
+    background-color:#ff562f;
+    padding-left:40px;
+    padding-right:40px;
+}
+#ft1 {
+    display: -webkit-inline-box;
+}
+#font18 {
+    color:#c02d14;
+    font-size:50px;
+    font-family:Raleway-ExtraLight;
+}
+#font19 {
+    font-size:50px;
+    font-family:Raleway-Bold;
+    line-height:20px;
+}
+#font20 {
+    font-family:Raleway-Regular;
+    font-size:25px;
+    color:black;
+    line-height:60px;
+}
+#font21 {
+    font-size:18px;
+    font-family:Raleway-Bold;
+    line-height:30px;
+    color:#c02d14;
+}
+#font22 {
+    color:#9b9999;
+    font-size:18px;
+    font-family:Raleway-ExtraLight;
+    line-height:30px;
+}
+#font23 {
+    color:black;
+    font-size:18px;
+    font-family:Raleway-ExtraLight;
+}
+#font24 {
+    color:#818181;
+    font-size:13px;
+    font-family:Raleway-ExtraLight;
+}
+#font25 {
+    color:#c02d14;
+    font-size:13px;
+    font-family:Raleway-ExtraLight;
+}
+@font-face {
+      font-family:Raleway-SemiBold;       
+       src: url('http://localhost:14420/assets/fonts/Raleway/Raleway-SemiBold.ttf');
+ }
+@font-face {
+      font-family:arial;       
+       src: url('http://localhost:14420/assets/fonts/Arial/arial.ttf');
+ }
+@font-face {
+      font-family: Raleway-Light;       
+       src: url('http://localhost:14420/assets/fonts/Raleway/Raleway-Light.ttf');
+ }
+@font-face {
+      font-family: Raleway-Regular;       
+       src: url('http://localhost:14420/assets/fonts/Raleway/Raleway-Regular.ttf');
+ }
+ @font-face {
+      font-family: Raleway-ExtraLight;       
+       src: url('http://localhost:14420/assets/fonts/Raleway/Raleway-ExtraLight.ttf');
+ }
+ @font-face {
+      font-family: Raleway-Bold;       
+       src: url('http://localhost:14420/assets/fonts/Raleway/Raleway-Bold.ttf');
+ }
+ @font-face {
+      font-family:arialbd;       
+       src: url('http://localhost:14420/assets/fonts/Arial/arialbd.ttf');
+ }
+ #font1 {
+    font-size:25px;
+    font-family:Raleway-Light;
+    padding-bottom:10px;
+    color:#c02d14;
+}
+  #font2 {
+    font-size:14px;
+    font-family:Raleway-Regular;
+    padding-bottom:10px;
+    color:#a1a1a1;
+}
+#font3 {
+    font-size:14px;
+    font-family:arialbd;
+    color:#ff562f;
+    padding-left:20px;
+}
+#font4 {
+    font-size:25px;
+    color:#c02d14;
+}
+#font5 {
+    font-size:14px;
+    font-family:arialbd;
+    color:#c02d14;
+}
+#font6 {
+    font-size:14px;
+    font-family:arial;
+    color:#626262;
+    margin-left: 45px;
+}
+p {
+    padding-bottom:20px;
+}
+#font7 {
+    font-size:14px;
+    font-family:arial;
+    color:#626262;
+    margin-left:23px;
+}
+

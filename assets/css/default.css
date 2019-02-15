@@ -1,0 +1,362 @@
+﻿#topNav {
+    padding-bottom:43px;
+    background-color:#ffffff;
+    border-color:#ffffff;
+}
+.navbar-right {
+    padding-top:35px;
+    padding-right:20px;
+}
+.carousel-caption h1 {
+    font-size:70px;
+    font-family:"Raleway",ExtraLight;   
+}
+.row {
+    text-align:center;
+}
+
+.carousel-caption button {
+    padding-left: 50px;
+    margin-top:10px;
+    padding-right: 50px;
+    background-color:#ff562f;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 70px;
+    font-size:20px;
+}
+#myCarousel {
+    margin-top:150px;
+}
+.carousel-indicators {
+    margin-bottom:35px;
+}
+.panel-body h1 {
+    font-size:50px;
+    text-align:center;
+    padding-top:20px;
+    line-height:54px;
+}
+.col-sm-5cols{
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+@media (min-width: 768px) {
+.col-sm-5cols {
+        width: 20%;
+        float: left;
+    }
+}
+.panel-body {
+    background-color:#f5f5f5;
+}  
+.row .col-sm-6 {
+    background-color:#221822;
+    height:400px;
+} 
+.row .col-sm-6 img {
+    padding-top:40px;
+}
+.r {
+    color:white;
+    text-align:left;
+    margin-left:90px;
+}
+.rr {
+    color:white;
+    text-align:left;
+    padding-top:60px;
+    padding-left:90px;
+}
+.panel-body .a{
+    font-size:25px;
+    text-align:center;
+}
+.panel-body hr {
+    border-color:#c02d14;
+    width:3%;
+}
+.carousel-caption hr {
+    border-color:#c02d14;
+    width:3%;
+}
+.row hr {
+    border-color:#c02d14;
+    width:3%;
+}
+.panel-body table tr td img {
+    padding-bottom:75px;
+}
+.panel-body p{
+    font-size:22px;
+}
+.panel-body tr td {
+    padding-left: 35px;
+    line-height: 25px;
+}
+.h {
+    text-align:center;
+}
+.z {
+    border-color:#c02d14;
+    width:3%;
+}
+#name {
+    margin-bottom: 20px;
+    height: 50px;
+    width:100%;
+    
+}
+#email {
+    margin-bottom: 20px;
+    height: 50px;
+    width:100%;
+    
+}
+#number {
+    margin-bottom: 20px;
+    height: 50px;
+    width:100%;
+    
+}
+#msg {
+    margin-bottom: 20px;
+    height:190px;
+    width: 100%;
+}
+#btn {
+    background-color:#ff562f;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#ft1 {
+    display: -webkit-inline-box;
+}
+.navbar-collapse .navbar-right li a:hover {
+    background-color:#ff562f;
+    color:white;
+}
+#f {
+        margin-top: 20px;
+    margin-bottom: 20px;
+}
+#ul {
+    text-align:center;
+}
+
+ @font-face {
+      font-family: Raleway-ExtraLight;       
+       src: url('http://localhost:14420/assets/fonts/Raleway/Raleway-ExtraLight.ttf');
+ }
+ @font-face {
+      font-family: Raleway-Bold;       
+       src: url('http://localhost:14420/assets/fonts/Raleway/Raleway-Bold.ttf');
+ }
+#hello {
+     font-family:Raleway-ExtraLight;
+     font-size:60px;
+ }
+#hello1 {
+    font-family:Raleway-Bold;
+    font-size:70px;
+    font-weight:bold;
+    line-height:30px;
+    margin-bottom:50px;
+}
+.carousel-caption {
+    margin-bottom:90px;
+}
+@font-face {
+      font-family: Raleway-Regular;       
+       src: url('http://localhost:14420/assets/fonts/Raleway/Raleway-Regular.ttf');
+ }
+#hello2 {
+    font-family:Raleway-Regular;
+    font-size:18px;
+}
+#font3 {
+    font-family:Raleway-ExtraLight;
+     font-size:50px;
+     line-height:0px;
+}
+#font4 {
+    font-family:Raleway-Bold;
+    font-size:52px;
+    font-weight:bolder;
+    line-height:40px;
+    color:#ff562f;
+}
+#font5 {
+    font-family:Raleway-Bold;
+    font-size:52px;
+    font-weight:bolder;
+    line-height:40px;
+    color:#c02d14;
+}
+@font-face {
+      font-family: Raleway-Light;       
+       src: url('http://localhost:14420/assets/fonts/Raleway/Raleway-Light.ttf');
+ }
+#font6 {
+    font-family:Raleway-Light;
+    font-size:22px;
+    color:#c02d14;
+    float:left;
+    padding-left:68px;
+}
+#font7 {
+    font-family:Raleway-Regular;
+    font-size:14px;
+    float:left;
+    padding-left:70px;
+}
+#font8 {
+    color:#c84933;
+    font-family:Raleway-ExtraLight;
+    font-size:50px;
+}
+#font9 {
+    font-family:Raleway-Regular;
+    font-size:25px;
+}
+.rr {
+    font-family:Raleway-Light;
+    font-size:40px;
+}
+#font11 {
+    font-family:Raleway-Bold;
+    font-size:40px;
+}
+@font-face {
+      font-family:arial;       
+       src: url('http://localhost:14420/assets/fonts/Arial/arial.ttf');
+ }
+#font12 {
+    font-family:arial;
+    font-size:14px;
+    color:#cccccc;
+}
+#font13 {
+    font-family:Raleway-ExtraLight;
+    font-size:50px;
+    color:#c8523e;
+    padding-top:100px;
+    line-height:0px;
+}
+#font14 {
+    font-family:Raleway-Regular;
+    font-size:25px;
+    color:black;
+}
+#font15 {
+    font-family:Raleway-Light;
+    font-size:25px;
+    color:#414042;
+}
+@font-face {
+      font-family:Raleway-SemiBold;       
+       src: url('http://localhost:14420/assets/fonts/Raleway/Raleway-SemiBold.ttf');
+ }
+
+#font16 {
+    font-family:Raleway-SemiBold;
+    font-size:16px;
+    color:#e72f39;
+}
+#font17 {
+    color:#696c72;
+    font-family:arial;
+    font-size:13px;
+}
+
+
+
+
+#font18 {
+    color:#c02d14;
+    font-size:50px;
+    font-family:Raleway-ExtraLight;
+}
+#font19 {
+    font-size:50px;
+    font-family:Raleway-Bold;
+    line-height:20px;
+}
+#font20 {
+    font-family:Raleway-Regular;
+    font-size:25px;
+    color:black;
+    line-height:60px;
+}
+#font21 {
+    font-size:18px;
+    font-family:Raleway-Bold;
+    line-height:30px;
+    color:#c02d14;
+}
+#font22 {
+    color:#9b9999;
+    font-size:18px;
+    font-family:Raleway-ExtraLight;
+    line-height:30px;
+}
+#font23 {
+    color:black;
+    font-size:18px;
+    font-family:Raleway-ExtraLight;
+}
+#font24 {
+    color:#818181;
+    font-size:13px;
+    font-family:Raleway-ExtraLight;
+}
+#font25 {
+    color:#c02d14;
+    font-size:13px;
+    font-family:Raleway-ExtraLight;
+}
+#font26 {
+    font-family:Raleway-Regular;
+    font-size:14px;
+    float:left;
+    padding-left:70px;
+}
+#font27 {
+    font-family:Raleway-Regular;
+    font-size:14px;
+    float:left;
+    padding-left:70px;
+}
+#font28 {
+    font-family:Raleway-Regular;
+    font-size:14px;
+    float:left;
+    padding-left:70px;
+}
+#font29 {
+    font-family:Raleway-Regular;
+    font-size:14px;
+    float:left;
+    padding-left:70px;
+}
+#font30 {
+    font-family:Raleway-Regular;
+    font-size:14px;
+    float:left;
+    padding-left:70px;
+}
+#font31 {
+    font-family:Raleway-Regular;
+    font-size:14px;
+    float:left;
+    padding-left:70px;
+}
+#font32 {
+    font-family:arial;
+    font-size:14px;
+    color:#cccccc;
+}
